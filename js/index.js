@@ -1,6 +1,6 @@
 //打字机
 const text = document.querySelector('.text');
-const txt = ["欢迎来到402", "一个记事墙", "开发耗时114514h"];
+const txt = ["欢迎来到502", "一个暂停维护的网站", "开发耗时114514h"];
 
 var index = 0;
 var xiaBiao = 0;
